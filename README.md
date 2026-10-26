@@ -114,10 +114,11 @@ F H <BR>
 <hr>
 ['0', '1', '2', '3', '4']
 <hr>
+
 ## Input
 <img width="58" height="122" alt="image" src="https://github.com/user-attachments/assets/27213faa-b4a9-4eb9-8bd8-b22c0d017661" />
 
 <h3>Result:</h3>
 <hr>
-<p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
+<p>Thus,The Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
 
