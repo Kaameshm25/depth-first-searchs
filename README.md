@@ -81,39 +81,6 @@ path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
-<h3>Sample Input</h3>
-<hr>
-8 9 <BR>
-A B <BR>
-A C <BR>
-B E <BR>
-C D <BR>
-B D <BR>
-C G <BR>
-D F <BR>
-G F <BR>
-F H <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
-<hr>
-
-<hr>
-<h3>Sample Input</h3>
-<hr>
-5 5 <BR>
-0 1 <BR>
-0 2 <BR>
-0 3 <BR>
-2 3 <BR>
-2 4 <BR>
-<hr>
-<h3>Sample Output</h3>
-<hr>
-['0', '1', '2', '3', '4']
-<hr>
 
 ## Input
 <img width="58" height="122" alt="image" src="https://github.com/user-attachments/assets/27213faa-b4a9-4eb9-8bd8-b22c0d017661" />
